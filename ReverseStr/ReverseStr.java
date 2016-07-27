@@ -2,7 +2,6 @@ import java.io.*;
 
 public class ReverseStr
 {
-	
 	public static String ReverseString(String str)
 	{
 		char[] arr = str.toCharArray();
@@ -40,6 +39,3 @@ public class ReverseStr
 		System.out.print("Reversed string: " + rev);
 	}
 }
-
-
-
